@@ -1,0 +1,6 @@
+12
+3
+4
+5
+6
+this is new text for output file
