@@ -1,7 +1,3 @@
-import time
-from unittest import result
-
-
 def calculate_average(numbers = list[int]):
   """ This function calculates the average of the provided list of numbers.
   Args:
